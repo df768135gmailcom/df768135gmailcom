@@ -1,8 +1,8 @@
-- 👋 Hi, I’m David Felix Opemipo <Python Lord>
+- Hi there Python Lord greeting!
 - 👀 I’m interested in app creation
-- 🌱 I’m currently learning various python graphics user interface such as kivy, pyQt5, PySide6 and using Qt engine
+- 🌱 I’m good with various python graphics user interface such as kivy, pyQt5, PySide6 and just started using Qt engine
 - 💞️ I’m looking to collaborate on enhanced app development
-- 📫 How to reach me through whatapp on +234 7038394820, Facebook felix felix Opemipo,email- df768135@gmail.com, felixopemipo@gmail.com
+- 📫 How to reach me through whatapp on +234 7038394820, Facebook-felix Opemipo,email- df768135@gmail.com, felixopemipo@gmail.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: Good with code summarization or compression 😊
 
