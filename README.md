@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @df768135gmailcom
+- 👋 Hi, I’m David Felix Opemipo <Python Lord>
 - 👀 I’m interested in app creation
 - 🌱 I’m currently learning various python graphics user interface such as kivy, pyQt5, PySide6 and using Qt engine
 - 💞️ I’m looking to collaborate on enhanced app development
